@@ -1,0 +1,30 @@
+body {
+    background-color: #A2D2ff;
+}
+
+.container {
+    margin: 5% 15%;
+    background-color: white;
+    padding: 0;
+}
+
+.menu {
+    background-color: #e1578A;
+    text-align: center;
+    color: white;
+    padding: 20px;
+    margin: 0 0 150% 0;
+}
+
+.icon {
+    margin: 20px;
+    color: #99A799;
+    text-align: center;
+}
+
+.bottom-menu {
+    text-align: center;
+    color: #e1578A;
+    padding: 20px;
+    margin: 150% 0 0 0;
+}
