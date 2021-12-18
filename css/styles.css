@@ -12,6 +12,8 @@ i:hover {
     transform: scale(1.2);
 }
 
+
+
 .icon:hover {
     color: #e1578a;
 }
@@ -50,3 +52,42 @@ i:hover {
   padding: 20px;
   margin: 150% 0 0 0;
 }
+
+.image {
+    float: left;
+}
+
+.profile {
+    width: 25%;
+    height: 84%;
+    position: absolute;
+    bottom: 10%;
+    left: 19%;
+}
+
+.image-word {
+    color: white;
+    position: absolute;
+    bottom: 22%;
+    left: 25%;
+}
+
+.name {
+    font-family: 'Pacifico', cursive;
+    transform: scale(1.5);
+}
+
+.image-nav {
+    color: white;
+    position:absolute;
+    bottom: 15%;
+    left: 24.5%;
+}
+
+.icon-menu {
+    margin: 20px;
+    color: white;
+    text-align: center;
+  }
+
+
