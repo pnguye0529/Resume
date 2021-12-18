@@ -55,6 +55,7 @@ i:hover {
 
 .image {
     float: left;
+    
 }
 
 .profile {
@@ -63,6 +64,7 @@ i:hover {
     position: absolute;
     bottom: 10%;
     left: 19%;
+    box-shadow: 20px 20px 200px;
 }
 
 .image-word {
@@ -90,4 +92,106 @@ i:hover {
     text-align: center;
   }
 
+.about-header {
+    text-align: left;
+    position: absolute;
+    bottom: 78%;
+    right: 40%;
+    font-family: 'Pacifico', cursive;
+    transform: scale(1.5);
+}
 
+.about-title {
+    color: #e1578a;
+    text-align: left;
+    position: absolute;
+    bottom: 72%;
+    right: 28.5%;
+    font-family: 'Pacifico', cursive;
+    transform: scale(0.8);
+}
+
+.about-content {
+    width: 30%;
+    color: #9a9483;
+    text-align: left;
+    position: absolute;
+    bottom: 54%;
+    right: 21.5%;
+    font-family: 'Exo', sans-serif;
+    font-weight: bolder;
+}
+
+.hr {
+    height: 1px;
+    width: 30%;
+    background-color: #99a799;
+    position:absolute;
+    bottom: 52%;
+    right: 21.5%;
+}
+
+.service-header {
+    text-align: left;
+    position: absolute;
+    bottom: 45%;
+    right: 42.5%;
+    font-family: 'Pacifico', cursive;
+    transform: scale(1);
+}
+
+.service-icon {
+    color: #e1578a;
+    position: absolute;
+    bottom: 38%;
+    right: 49.5%;
+}
+
+.service-title {
+    color: black;
+    text-align: left;
+    position: absolute;
+    bottom: 34%;
+    right: 44%;
+    font-family: 'Pacifico', cursive;
+    transform: scale(1);
+}
+
+.service-content {
+    width: 15%;
+    color: #9a9483;
+    text-align: left;
+    position: absolute;
+    bottom: 20%;
+    right: 36.8%;
+    font-family: 'Exo', sans-serif;
+    font-weight: bolder;
+}
+
+.service1-icon {
+    color: #e1578a;
+    position: absolute;
+    bottom: 38%;
+    right: 30.5%;
+}
+
+.service1-title {
+    color: black;
+    text-align: left;
+    position: absolute;
+    bottom: 34%;
+    right: 26.5%;
+    font-family: 'Pacifico', cursive;
+    transform: scale(1);
+}
+
+.service1-content {
+    width: 14%;
+    color: #9a9483;
+    text-align: left;
+    position: absolute;
+    bottom: 20%;
+    right: 18.2%;
+    font-family: 'Exo', sans-serif;
+    font-weight: bolder;
+}
